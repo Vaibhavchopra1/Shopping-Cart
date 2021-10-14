@@ -1,6 +1,6 @@
-# craft
+# Shopping Cart
 
-A new Flutter application.
+A new Flutter application. The main code file has all the code required for the mobile application.
 
 ## Getting Started
 
